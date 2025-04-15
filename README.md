@@ -3,23 +3,23 @@ Drake equation and Fermi Paradox. Military, government &amp; corporate greed. Al
 
 "In 1961, top scientists agreed: intelligent alien life is almost certain — and maybe 30 to 40 million civilizations live in our galaxy alone. One galaxy out of billions. Think about that. 👽✨ #DrakeEquation #AreWeAlone"
 
-💬 6. Online Communities
+💬 Online Communities
 Join forums like Reddit’s r/space, r/FermiParadox, or r/AskScience.
 
 Post your thoughts, questions, or even just the facts to start a discussion.
 
-👕 5. Merch it Up
+👕 Merch it Up
 T-shirts, mugs, stickers with lines like:
 
 “30 Million Alien Civilizations and Counting”
 “1961: When Scientists Said ‘We Are Not Alone’”
 
-🎙️ 3. Start a Blog or YouTube Channel
+🎙️ Start a Blog or YouTube Channel
 Even if it's just for fun, you could explore space topics, cool science facts, and mind-bending theories.
 
 Your grandson already has YouTube channels — maybe you could do a “Grandpa’s Galaxy” segment or guest appearance!
 
-📱 2. Social Media Post
+📱 Social Media Post
 Make a short, intriguing post with an eye-catching image or quote.
 
 Example:
