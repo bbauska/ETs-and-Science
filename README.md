@@ -42,7 +42,7 @@ phenomenon was worth serious scientific investigation.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Background and Early Involvement in UFO Research</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>UFO Advocacy: James McDonald became involved in the UFO issue in the early 1960s. Initially, his 
+<p><b>UFO Advocacy:</b> James McDonald became involved in the UFO issue in the early 1960s. Initially, his 
 interest was piqued by the many UFO sightings that were reported by credible witnesses, including 
 military personnel, commercial pilots, and ordinary citizens.</p>
 
@@ -58,34 +58,34 @@ became one of the leading voices in the field of UFO research during the 1960s a
 and he gathered testimony from credible witnesses to make his case. Some of his most well-known 
 investigations include:</p>
 
-<p>The 1966 Westall UFO Incident (Australia): One of the most notable UFO sightings in Australia, 
+<p><b>The 1966 Westall UFO Incident (Australia):</b> One of the most notable UFO sightings in Australia, 
 where over 200 students and faculty at a school witnessed a UFO hovering over their school grounds. 
 McDonald interviewed witnesses and looked into the event in depth, concluding that the phenomenon 
 was likely real and worthy of further study.</p>
 
-<p>The 1967 Shag Harbor UFO Incident (Canada): McDonald investigated the sighting where several 
+<p><b>The 1967 Shag Harbor UFO Incident (Canada):</b> McDonald investigated the sighting where several 
 residents of Shag Harbor reported seeing a glowing object crash into the water. The Canadian 
 military investigated the event, and McDonald later suggested that the incident might have 
 involved extraterrestrial technology.</p>
 
-<p>UFO Sightings by Military Personnel and Pilots: McDonald compiled numerous testimonies from 
+<p><b>UFO Sightings by Military Personnel and Pilots:</b> McDonald compiled numerous testimonies from 
 military pilots, commercial pilots, and others who had witnessed UFOs. He argued that these 
 credible witnesses could not be dismissed as unreliable, and their experiences required serious 
 investigation.</p>
 
-<p>His Key Argument: McDonald was a staunch critic of the way the scientific community dismissed UFO 
+<p><b>His Key Argument:</b> McDonald was a staunch critic of the way the scientific community dismissed UFO 
 sightings without investigation. He argued that there was sufficient evidence to suggest that UFOs 
 might be extraterrestrial in origin, and that dismissing the phenomenon without proper study was 
 scientifically irresponsible.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>McDonald's Public Advocacy and Controversy</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>Testimony to the U.S. Senate: In 1968, McDonald testified before the U.S. Congress, urging 
+<p><b>Testimony to the U.S. Senate:</b> In 1968, McDonald testified before the U.S. Congress, urging 
 lawmakers to take UFOs seriously and fund investigations into the phenomenon. He was a vocal 
 advocate for scientific study and publicly criticized the Air Force's Project Blue Book for its 
 failure to thoroughly investigate UFO reports.</p>
 
-<p>The Mainstream Response: McDonald’s advocacy and work in UFO research did not sit well with some 
+<p><b>The Mainstream Response:</b> McDonald’s advocacy and work in UFO research did not sit well with some 
 members of the scientific community. He faced heavy criticism and skepticism from mainstream 
 scientists, some of whom thought he was damaging his career by associating with such a 
 controversial subject. Despite this, McDonald remained undeterred and continued to push for 
@@ -113,19 +113,19 @@ preparing to present a major lecture on UFOs in the coming weeks.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Theories and Speculation</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Given McDonald's outspoken stance on the U.S. government’s role in the UFO cover-up, there are a 
+<p>Given McDonald's outspoken stance on the U.S. government’s role in the UFO cover-up, there are a 
 number of theories surrounding his death:</p>
 
-<p>Government or Military Involvement: Some conspiracy theorists believe that McDonald's death was 
+<p><b>Government or Military Involvement:</b> Some conspiracy theorists believe that McDonald's death was 
 not a suicide, but rather a targeted assassination designed to silence him and prevent further 
 investigation into UFOs. This theory is fueled by McDonald’s significant influence and the 
 controversial nature of his research into government secrecy regarding UFOs.</p>
 
-<p>Personal Struggles: Others believe that McDonald’s death may have been the result of personal 
+<p><b>Personal Struggles:</b> Others believe that McDonald’s death may have been the result of personal 
 struggles. It’s known that McDonald had some personal issues, and his family and colleagues 
 have suggested that he may have been in a difficult emotional state at the time.</p>
 
-<p>No Clear Motive for Suicide: McDonald's friends and colleagues have noted that there didn’t 
+<p><b>No Clear Motive for Suicide:</b> McDonald's friends and colleagues have noted that there didn’t 
 seem to be a clear motive for him to take his own life, especially given his ongoing work and 
 the future he seemed to have ahead of him. This has led many to question whether his death was 
 truly a suicide or something else entirely.</p>
@@ -261,11 +261,10 @@ unsubstantiated reasons.</p>
 <p>He also questioned the CIA’s involvement in suppressing UFO-related information, arguing that the 
 government might be concealing vital data to prevent public panic or to keep military secrets 
 under wraps.</p>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Notable Publications</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>"The UFO Enigma" (1968): McDonald published a paper titled "The UFO Enigma", where he presented 
+<p><b>"The UFO Enigma" (1968):</b> McDonald published a paper titled "The UFO Enigma", where he presented 
 a detailed overview of UFO sightings and encounters, drawing on scientific methodology to examine 
 the phenomenon. He argued that UFOs were worthy of serious scientific investigation and that 
 existing data pointed to the possibility of extraterrestrial intelligence.</p>
@@ -294,80 +293,80 @@ transparency.</p>
 background, making his involvement in UFO research stand out in contrast to other researchers 
 who lacked formal scientific credentials.</p>
 
-<p>Scientific Approach: McDonald’s work emphasized the importance of using scientific methodology 
+<p><b>Scientific Approach:</b> McDonald’s work emphasized the importance of using scientific methodology 
 in analyzing UFO sightings and encouraged more systematic studies.</p>
 
-<p>Government Cover-Ups: He was vocal about government and military secrecy regarding UFOs, 
+<p><b>Government Cover-Ups:</b> He was vocal about government and military secrecy regarding UFOs, 
 believing that there was significant information being hidden from the public.</p>
 
-<p>Unanswered Questions: McDonald’s research left many questions unanswered, and the cases he 
+<p><b>Unanswered Questions:</b> McDonald’s research left many questions unanswered, and the cases he 
 investigated remain some of the most mysterious and unexplained in UFO history.</p>
 
 <p>Here are some notable pilot and military witness testimonials that McDonald investigated:</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>1. <b>The 1950 Great Falls UFO Encounter (Montana, USA) – U.S. Air Force</b></h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>Witnesses: Two U.S. Air Force radar operators and several fighter pilots.</p>
+<p><b>Witnesses:</b> Two U.S. Air Force radar operators and several fighter pilots.</p>
 
-<p>Incident: On November 24, 1950, radar operators at Malmstrom Air Force Base in Great Falls, 
+<p><b>Incident:</b> On November 24, 1950, radar operators at Malmstrom Air Force Base in Great Falls, 
 Montana, detected an unidentified flying object on their radar. Two fighter jets were dispatched 
 to intercept the object. Both pilots reported seeing a bright light moving at high speed.</p>
 
-<p>McDonald’s Analysis: McDonald viewed this case as highly significant because the UFO was 
+<p><b>McDonald’s Analysis:</b> McDonald viewed this case as highly significant because the UFO was 
 tracked on both radar and visual sightings, a situation he argued could not be easily 
 explained by natural phenomena or misidentification.</p>
 
-<p>Testimony: One of the radar operators, Airman First Class Edward J. McCarthy, stated that the 
+<p><b>Testimony:</b> One of the radar operators, Airman First Class Edward J. McCarthy, stated that the 
 UFO’s behavior was unlike anything he had ever encountered in his extensive training with 
 military radar systems.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>2. The 1965 New Jersey UFO Sighting – U.S. Air Force and Civilian Pilots</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Witnesses: Multiple civilian pilots, military personnel, and Air Force radar operators.</p>
+<p><b>Witnesses:</b> Multiple civilian pilots, military personnel, and Air Force radar operators.</p>
 
-<p>Incident: In 1965, several civilian pilots flying over New Jersey reported seeing a large 
+<p><b>Incident:</b> In 1965, several civilian pilots flying over New Jersey reported seeing a large 
 saucer-shaped UFO following their aircraft. Air Force radar also confirmed the UFO’s presence, 
 and it was tracked for several miles.</p>
 
-<p>McDonald’s Analysis: McDonald interviewed several of the civilian pilots, who were highly 
+<p><b>McDonald’s Analysis:</b> McDonald interviewed several of the civilian pilots, who were highly 
 trained and would not have misidentified conventional aircraft. The UFO was said to behave in a 
 manner impossible for any known aircraft at the time, such as rapid acceleration and sharp turns 
 at high altitudes.</p>
 
-<p>Testimony: A civilian pilot, Captain Robert Wilson, said that the UFO appeared to be "playing" 
+<p><b>Testimony:</b> A civilian pilot, Captain Robert Wilson, said that the UFO appeared to be "playing" 
 with their aircraft, accelerating rapidly and then hovering before darting off at an extreme 
 speed. The Air Force confirmed the radar data but did not release detailed information about 
 the incident.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>3. <b>The 1967 UFO Sighting by Military Pilot (New Mexico, USA)</b></h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>Witness: Lieutenant Colonel Richard French, U.S. Air Force (USAF).</p>
-<p>Incident: In 1967, Lieutenant Colonel Richard French, while flying a T-33 jet over New Mexico, 
+<p><b>Witness:</b> Lieutenant Colonel Richard French, U.S. Air Force (USAF).</p>
+<p><b>Incident:</b> In 1967, Lieutenant Colonel Richard French, while flying a T-33 jet over New Mexico, 
 reported encountering a bright metallic object that was moving at speeds that seemed impossible 
 for conventional aircraft.</p>
 
-<p>McDonald’s Analysis: McDonald took this sighting seriously, noting that French was an 
+<p><b>McDonald’s Analysis:</b> McDonald took this sighting seriously, noting that French was an 
 experienced fighter pilot, capable of distinguishing between natural phenomena, weather 
 balloons, and aircraft.</p>
 
-<p>Testimony: Lt. Col. French stated that the object seemed to “hover” at times, then accelerate at 
+<p><b>Testimony:</b> Lt. Col. French stated that the object seemed to “hover” at times, then accelerate at 
 speeds far beyond the capabilities of the T-33 jet. French later explained that the UFO was 
 performing maneuvers that no known aircraft was capable of at the time.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>4. The 1973 O'Hare UFO Incident – U.S. Air Force & Commercial Pilot</h2>
 <p>Witnesses: Several U.S. Air Force personnel, commercial pilots, and passengers.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>Incident: On November 7, 1973, a UFO was sighted hovering over O'Hare International Airport in 
+<p><b>Incident:</b> On November 7, 1973, a UFO was sighted hovering over O'Hare International Airport in 
 Chicago, Illinois. Multiple witnesses, including commercial pilots, reported seeing a large, 
 metallic disk-shaped object hovering above the airport.</p>
 
-<p>McDonald’s Analysis: McDonald argued that the O'Hare sighting was highly credible because it 
+<p><b>McDonald’s Analysis:</b> McDonald argued that the O'Hare sighting was highly credible because it 
 involved both civilian and military witnesses who were all in a position to make accurate 
 observations. The UFO was described as being large and stationary for a long period, and its 
 sudden departure at high speed was said to be unlike anything a commercial or military aircraft 
 could do.</p>
 
-<p>Testimony: Several airline pilots from United Airlines reported seeing the object. One of the 
+<p><b>Testimony:</b> Several airline pilots from United Airlines reported seeing the object. One of the 
 pilots, Captain Lee Solomon, described the UFO as a “solid, metallic disk” that hovered above the 
 terminal for several minutes before shooting straight up into the sky at high speed. The incident 
 was also recorded on radar, adding to the credibility of the witnesses’ accounts.</p>
@@ -375,51 +374,51 @@ was also recorded on radar, adding to the credibility of the witnesses’ accoun
 <h2>5. The 1964 Westall UFO Incident (Australia) – Military and Civilian Witnesses</h2>
 <p>Witnesses: Over 200 students, teachers, and military personnel.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>Incident: On April 6, 1966, more than 200 witnesses, including students and teachers at the Grange 
+<p><b>Incident:</b> On April 6, 1966, more than 200 witnesses, including students and teachers at the Grange 
 Horse School and military personnel at nearby airfields, reported seeing a UFO hovering over the 
 area and then speeding off at an incredibly high speed.</p>
 
-<p>McDonald’s Analysis: McDonald found the multiple military and civilian testimonies to be 
+<p><b>McDonald’s Analysis:</b> McDonald found the multiple military and civilian testimonies to be 
 particularly compelling. The involvement of military personnel was crucial because these witnesses 
 were trained to identify various aircraft and weather phenomena.</p>
 
-<p>Testimony: John Goodall, a military witness stationed at RAAF Base, later testified that he saw the 
+<p><b>Testimony:</b> John Goodall, a military witness stationed at RAAF Base, later testified that he saw the 
 object hovering above the school before it rapidly accelerated and disappeared. He said it was like 
 nothing he had seen before. Another teacher, Jeanette Walshe, corroborated the account and claimed 
 she saw the object make several sudden turns before disappearing.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>6. The 1976 Tehran UFO Incident – Iranian Air Force</h2>
-<p>Witnesses: Iranian Air Force pilots and military radar operators.</p>
+<p><b>Witnesses:</b> Iranian Air Force pilots and military radar operators.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>Incident: In 1976, Iranian military personnel tracked an unknown object on radar over the city of 
+<p><b>Incident:</b> In 1976, Iranian military personnel tracked an unknown object on radar over the city of 
 Tehran. A military pilot was sent to investigate, and as he approached the UFO, his instruments 
 reportedly began malfunctioning. Several other pilots also reported seeing the object, which 
 performed aerial maneuvers far beyond the capabilities of conventional aircraft.</p>
 
-<p>McDonald’s Analysis: McDonald interviewed several individuals involved in the incident, including 
+<p><b>McDonald’s Analysis:</b> McDonald interviewed several individuals involved in the incident, including 
 Iranian Air Force Colonel Parviz Jafari, who reported that the object appeared to block their 
 radar signals and disable the aircraft’s instruments.</p>
 
-<p>Testimony: Colonel Jafari stated that the UFO’s movements were so fast that they could not be 
+<p><b>Testimony:</b> Colonel Jafari stated that the UFO’s movements were so fast that they could not be 
 accounted for by any known aircraft, and they were intercepting military jets at will. The 
 incident was later verified by U.S. intelligence sources, which confirmed that multiple military 
 personnel had witnessed the UFO, and there was significant radar confirmation of the event.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>7. The 1952 Washington D.C. UFO Incident – U.S. Air Force</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>Witnesses: U.S. Air Force personnel and civilian radar operators.</p>
+<p><b>Witnesses:</b> U.S. Air Force personnel and civilian radar operators.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>Incident: In July 1952, several UFOs were tracked on radar over Washington, D.C., and numerous 
+<p><b>Incident:</b> In July 1952, several UFOs were tracked on radar over Washington, D.C., and numerous 
 military jets were dispatched to intercept them. The UFOs, however, displayed capabilities that 
 far exceeded the jets’ performance. Despite the efforts of military aircraft, the UFOs evaded 
 capture and continued to appear over the capital.</p>
 
-<p>McDonald’s Analysis: McDonald analyzed the official Air Force reports and concluded that the 
+<p><b>McDonald’s Analysis:</b> McDonald analyzed the official Air Force reports and concluded that the 
 Washington D.C. UFO incident was one of the most credible mass sightings of UFOs due to the number 
 of radar operators and military pilots involved. He also pointed out that the military’s attempt to 
 intercept the UFOs was unsuccessful, despite the best efforts of skilled pilots.</p>
 
-<p>Testimony: Captain Edward Ruppelt, who was involved in investigating the incident with Project Blue 
+<p><b>Testimony:</b> Captain Edward Ruppelt, who was involved in investigating the incident with Project Blue 
 Book, later stated that the UFOs displayed maneuvering capabilities that no aircraft could match at 
 the time, further lending credibility to the idea that the sightings were of non-human origin.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -460,9 +459,9 @@ researchers.</p>
 <h2>Notable UFO Sightings and Encounters in Chile</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>A. The 1997 "The Cerro Pochoco" UFO Incident</h2>
-<p>Location: Near Santiago, Chile.</p>
+<p><b>Location:</b> Near Santiago, Chile.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>Details: A series of UFO sightings were reported by military personnel and civilians around the 
+<p><b>Details:</b> A series of UFO sightings were reported by military personnel and civilians around the 
 Cerro Pochoco mountain, located near the capital. Eyewitnesses described seeing bright, 
 fast-moving lights in the sky that defied normal aviation behavior. The Chilean Air Force (FACH) 
 took the reports seriously and conducted a formal investigation, ultimately determining that the 
@@ -471,7 +470,7 @@ phenomenon was likely not the result of conventional aircraft or natural phenome
 <h2>The 2000 "The Chupica UFO Incident"</h2>
 <p>Location: Northern Chile.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>Details: In this highly publicized event, multiple civilian witnesses and military personnel 
+<p><b>Details:</b> In this highly publicized event, multiple civilian witnesses and military personnel 
 reported seeing a bright, disc-shaped object hovering over a mining area. The object reportedly 
 moved erratically, changing direction abruptly. Chilean Air Force investigators were able to 
 obtain radar data that corroborated the sightings. The case remains unexplained, and this 
@@ -479,9 +478,9 @@ incident was one of the first major UFO cases that led to an official, governmen
 investigation.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>The 2008 "The Pichilemu Case"</h2>
-<p>Location: Pichilemu, Chile.</p>
+<p><b>Location:</b> Pichilemu, Chile.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>Details: This case involved a series of UFO sightings by both civilians and a military pilot. The 
+<p><b>Details:</b> This case involved a series of UFO sightings by both civilians and a military pilot. The 
 objects were reportedly shaped like triangles or discs, and they exhibited unusual flight patterns 
 that defied the capabilities of known aircraft. The Chilean Air Force carried out an investigation 
 into the sightings, which included analysis of video footage and radar data. The case remains one 
@@ -490,33 +489,33 @@ of the most significant unexplained incidents in Chilean UFO history.</p>
 <h2>The 2014 "The Calama UFO" Incident</h2>
 <p>Location: Calama, Chile.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>Details: In 2014, several witnesses, including military personnel, reported seeing a group of 
+<p><b>Details:</b> In 2014, several witnesses, including military personnel, reported seeing a group of 
 lights in the sky. The Chilean Air Force recorded radar readings that tracked the objects over a 
 period of several minutes. The objects reportedly moved in patterns inconsistent with known 
 aircraft or meteorological phenomena. The Chilean Air Force conducted an investigation and 
 eventually released a report stating that the sighting could not be explained using conventional 
 technologies.</p>
 
-<p>3. The Role of the CEFAA (Committee for the Study of Anomalous Aerial Phenomena)
-The CEFAA is a crucial part of Chile's official investigation into UFOs and aerial phenomena. It 
+<h3>3. The Role of the CEFAA (Committee for the Study of Anomalous Aerial Phenomena)</h3>
+<p>The CEFAA is a crucial part of Chile's official investigation into UFOs and aerial phenomena. It 
 functions much like the U.S. Air Force’s Project Blue Book or the UK’s Flying Saucer Working Party, 
 with the goal of providing objective and scientific analysis of UFO sightings.</p>
 
-<p>Transparency: The CEFAA has been notable for its transparency in sharing findings with the public. 
+<p><b>Transparency:</b> The CEFAA has been notable for its transparency in sharing findings with the public. 
 For example, in 2017, CEFAA released a video of a UFO taken by military pilots in Chile’s 
 Antofagasta region. The video showed a dark, disc-shaped object being observed and tracked by 
 military personnel, and the case was deemed unexplained by CEFAA.</p>
 
-<p>Scientific Approach: Chilean investigators have often used a scientific and skeptical approach to 
+<p><b>Scientific Approach:</b> Chilean investigators have often used a scientific and skeptical approach to 
 evaluating UFO sightings. Radar data, video recordings, and eyewitness testimonies are analyzed 
 meticulously. The CEFAA works in collaboration with Chilean scientists and aviation experts, 
 aiming to rule out mundane explanations such as aircraft, weather phenomena, or military 
 exercises.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>The 2010 "The Santiago UFO" Incident</h2>
-<p>Location: Santiago, Chile.</p>
+<p><b>Location:</b> Santiago, Chile.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>Details: This incident occurred when a military helicopter and a civilian airline pilot both 
+<p><b>Details:</b> This incident occurred when a military helicopter and a civilian airline pilot both 
 reported seeing a fast-moving object while flying over Santiago. The object was tracked by radar 
 and was reportedly unlike any conventional aircraft. The Chilean Air Force (FACH) initiated an 
 investigation and concluded that the object could not be identified, but also could not be 
@@ -566,54 +565,54 @@ and reports that have attracted the attention of both local witnesses and UFO en
 a look at some of the key sightings and incidents in Guatemala:</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>The 1995 "Lake Izabal UFO" Incident</h2>
-<p>Location: Lake Izabal, Guatemala.</p>
+<p><b>Location:</b> Lake Izabal, Guatemala.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>Details: One of the most well-documented UFO sightings in Guatemala occurred in 1995 near Lake 
+<p><b>Details:</b> One of the most well-documented UFO sightings in Guatemala occurred in 1995 near Lake 
 Izabal, the largest lake in the country. Several witnesses reported seeing strange lights 
 hovering over the water during the evening hours. The lights were described as bright and 
 circular, moving erratically and at speeds far exceeding those of any known aircraft. Some 
 witnesses claimed that the lights hovered silently before disappearing into the night sky.</p>
 
-<p>Investigations: The incident was widely discussed among UFO enthusiasts and in local media. 
+<p><b>Investigations:</b> The incident was widely discussed among UFO enthusiasts and in local media. 
 Although no official investigation by the Guatemalan government was reported, the event 
 sparked further interest in the region’s UFO activity.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>The 2002 "UFO over Guatemala City" Incident</h2>
 <p>Location: Guatemala City, the capital of Guatemala.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>Details: In 2002, a bright light was reported over Guatemala City by multiple civilians and also 
+<p><b>Details:</b> In 2002, a bright light was reported over Guatemala City by multiple civilians and also 
 captured on video by local residents. Witnesses described seeing a bright, disk-shaped object 
 moving across the sky before it suddenly disappeared at high speed. The object exhibited no 
 conventional aircraft lights and displayed erratic, sharp movements.</p>
 
-<p>Media Coverage: Local news outlets reported the sighting, and the footage was analyzed by both 
+<p><b>Media Coverage:</b> Local news outlets reported the sighting, and the footage was analyzed by both 
 UFO researchers and skeptics. However, no conclusive explanation was offered. The Guatemalan Air 
 Force did not release any official statements regarding the incident, leaving the case open to 
 speculation.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>The 2007 "El Petén UFO" Sighting</h2>
-Location: El Petén, Guatemala (near the ancient Mayan ruins of Tikal).</p>
+<p><b>Location:</b> El Petén, Guatemala (near the ancient Mayan ruins of Tikal).</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>Details: In 2007, a group of tourists and locals reported seeing strange lights near the Mayan 
+<p><b>Details:</b> In 2007, a group of tourists and locals reported seeing strange lights near the Mayan 
 ruins of Tikal in the dense jungle of El Petén. The lights were described as moving in formation, 
 often changing direction and altitude rapidly. The sighting occurred at night, and the lights 
 seemed to hover in the sky before disappearing.</p>
 
-<p>Connection to Mayan Culture: Some UFO enthusiasts have speculated that the sightings near the 
+<p><b>Connection to Mayan Culture:</b> Some UFO enthusiasts have speculated that the sightings near the 
 Mayan ruins could be linked to the ancient Mayan civilization, which is often associated with 
 mysterious knowledge and possible extraterrestrial connections in popular UFO lore. However, 
 there was no official investigation into the incident.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>4. UFO Sightings in the Highlands</h2>
-<p>Location: Guatemalan Highlands (including areas like Quetzaltenango and Sololá).</p>
+<p><b>Location:</b> Guatemalan Highlands (including areas like Quetzaltenango and Sololá).</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>Details: Over the years, there have been several reports of UFO sightings in the mountainous 
+<p><b>Details:</b> Over the years, there have been several reports of UFO sightings in the mountainous 
 regions of Guatemala, particularly in the Guatemalan Highlands. These reports typically involve 
 strange lights seen in the sky, often reported by rural communities living in the highlands. The 
 lights are said to appear at night, sometimes hovering over nearby mountains or descending into 
 the valleys.</p>
 
-<p>Cultural Context: The indigenous people in these areas, especially the Mayan communities, have 
+<p><b>Cultural Context:</b> The indigenous people in these areas, especially the Mayan communities, have 
 rich cultural traditions that sometimes include beliefs about sky beings or otherworldly 
 entities. It is not uncommon for sightings of lights or objects in the sky to be interpreted 
 within a spiritual or supernatural context.</p>
@@ -676,66 +675,66 @@ documents that confirm government involvement in tracking and studying unidentif
 <h1>🛸 Notable UFO Cases in Brazil</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>The Varginha Incident (1996) – “Brazil’s Roswell”</h2>
-<p>Location: Varginha, Minas Gerais.</p>
+<p><b>Location:</b> Varginha, Minas Gerais.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>What happened: On January 20, 1996, residents of Varginha reported seeing a strange creature with 
+<p><b>What happened:</b> On January 20, 1996, residents of Varginha reported seeing a strange creature with 
 large red eyes, brown oily skin, and a humanoid appearance. Multiple witnesses, including three 
 young girls, claimed to see the creature crouched by a wall.</p>
 
-<p>Military Involvement: Brazilian military trucks were seen transporting something in secret. There 
+<p><b>Military Involvement:</b> Brazilian military trucks were seen transporting something in secret. There 
 were rumors that at least one creature was captured alive and another possibly killed.</p>
 
-<p>Cover-up Allegations: The Brazilian government initially denied the incident. Years later, 
+<p><b>Cover-up Allegations:</b> The Brazilian government initially denied the incident. Years later, 
 whistleblowers and researchers pushed for transparency. A military police officer who 
 reportedly handled the creature later died under mysterious circumstances.</p>
 
-<p>Legacy: The Varginha Incident is one of the most investigated cases in UFO history and is often 
+<p><b>Legacy:</b> The Varginha Incident is one of the most investigated cases in UFO history and is often 
 compared to Roswell in terms of scope and mystery.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>The Colares Incident (1977) – The “Chupa-Chupa” Attacks</h2>
 <p>Location: Colares Island, Pará state.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>What happened: Between 1977 and 1978, residents of Colares reported being attacked by strange 
+<p><b>What happened:</b> Between 1977 and 1978, residents of Colares reported being attacked by strange 
 flying objects that emitted beams of light. These lights reportedly caused burns, puncture 
 wounds, and even unconsciousness in some victims.</p>
 
-<p>Medical Reports: A local doctor, Dr. Wellaide Carvalho, treated dozens of patients and reported 
+<p><b>Medical Reports:</b> A local doctor, Dr. Wellaide Carvalho, treated dozens of patients and reported 
 unusual injuries.</p>
 
-<p>Military Operation “Saucer”: The Brazilian Air Force launched "Operação Prato" (Operation Saucer) 
+<p><b>Military Operation “Saucer”:</b> The Brazilian Air Force launched "Operação Prato" (Operation Saucer) 
 to investigate. Military personnel photographed and videotaped UFOs over the area.</p>
 
-<p>Suppression and Release: The operation was shut down quickly, and files were classified for years. 
+<p><b>Suppression and Release:</b> The operation was shut down quickly, and files were classified for years. 
 Some documents were released in 2004, confirming much of what UFO researchers had long claimed.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Night of the UFOs (1986) – Jet Fighters Scrambled</h2>
 <p>Date: May 19, 1986.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>What happened: 21 UFOs were tracked on radar over multiple Brazilian states, including São Paulo 
+<p><b>What happened:</b> 21 UFOs were tracked on radar over multiple Brazilian states, including São Paulo 
 and Rio de Janeiro.</p>
 
-<p>Response: The Brazilian Air Force scrambled five fighter jets to intercept. Pilots reported erratic 
+<p><b>Response:</b> The Brazilian Air Force scrambled five fighter jets to intercept. Pilots reported erratic 
 objects flying at speeds over 15,000 mph, vanishing and reappearing.</p>
 
-<p>Government Reaction: The Minister of Aeronautics, Brigadier Otávio Moreira Lima, held a press 
+<p><b>Government Reaction:</b> The Minister of Aeronautics, Brigadier Otávio Moreira Lima, held a press 
 conference confirming the sightings:</p>
 
 <p>"It’s not fantasy or imagination. Something real happened, and we do not know what it was."</p>
 
-<p>Declassified Docs: In 2009, the Brazilian government released official documentation of the 
+<p><b>Declassified Docs:</b> In 2009, the Brazilian government released official documentation of the 
 encounter, including pilot testimonies.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>The 1957 Trindade Island Sighting</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>What happened: A Brazilian Navy ship near Trindade Island photographed a metallic disc-shaped object.</p>
+<p><b>What happened:</b> A Brazilian Navy ship near Trindade Island photographed a metallic disc-shaped object.</p>
 
-<p>Photographic Evidence: The photos were taken by Almiro Baraúna, a professional photographer. The 
+<p><b>Photographic Evidence:</b> The photos were taken by Almiro Baraúna, a professional photographer. The 
 images were published globally.</p>
 
-<p>Official Involvement: The event was witnessed by military personnel on board, making it one of 
+<p><b>Official Involvement:</b> The event was witnessed by military personnel on board, making it one of 
 the earliest official military-UFO encounters with photographic evidence.</p>
 
-<p>Legacy: These photos are still among the most debated and analyzed in UFO history.</p>
+<p><b>Legacy:</b> These photos are still among the most debated and analyzed in UFO history.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>🔍 Brazil’s Government and UFO Disclosure</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -831,12 +830,12 @@ the mid-20th century.</p>
 
 <p>Here’s a comprehensive overview of ETs and UFO phenomena in Canada:</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Key UFO and ET Incidents in Canada</p>
+<p>Key UFO and ET Incidents in Canada</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>The Falcon Lake Incident (1967)</h2>
-<h3>Location: Falcon Lake, Manitoba.</h3>
+<h3><b>Location:</b> Falcon Lake, Manitoba.</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>Witness: Stefan Michalak, an amateur geologist.</p>
+<p><b>Witness:</b> Stefan Michalak, an amateur geologist.</p>
 
 <p><b>What happened:</b> Michalak encountered a metallic, saucer-shaped craft that landed near him while 
 prospecting. When he approached, it emitted a hot blast of air, burning his clothes and leaving 
@@ -849,7 +848,7 @@ later found to contain radioactive soil.</p>
 Air Force investigated. It remains Canada’s most documented UFO case.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Shag Harbour UFO Crash (1967)</h2>
-<h3>Location: Shag Harbour, Nova Scotia.</h3>
+<h3><b>Location:</b> Shag Harbour, Nova Scotia.</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p><b>What happened:</b> A glowing object crashed into the ocean and was witnessed by dozens of people, 
 including RCMP officers and fishermen.</p>
