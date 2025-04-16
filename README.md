@@ -761,15 +761,15 @@ alien craft observations—before being found dead in an alleged suicide.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>🔭 Modern Sightings and Hotspots</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>UFO Hotspots in Brazil:</p>
+<h3>UFO Hotspots in Brazil:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>Chapada dos Veadeiros (Goiás) – Known for high energy fields and UFO sightings.</p>
+<p><b>Chapada dos Veadeiros (Goiás)</b> – Known for high energy fields and UFO sightings.</p>
 
-<p>Serra da Beleza (Rio de Janeiro) – Frequent sightings, UFO watch groups.</p>
+<p><b>Serra da Beleza (Rio de Janeiro)</b> – Frequent sightings, UFO watch groups.</p>
 
-<p>Amazon Rainforest – Remote regions report glowing orbs and strange craft.</p>
+<p><b>Amazon Rainforest</b> – Remote regions report glowing orbs and strange craft.</p>
 
-<p>Bahia and Mato Grosso States – Ongoing reports of lights, abductions, and electromagnetic anomalies.</p>
+<p><b>Bahia and Mato Grosso States</b> – Ongoing reports of lights, abductions, and electromagnetic anomalies.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>🧠 Cultural Impact</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -781,7 +781,7 @@ and UFOlogy conferences.</p>
 
 <p>In Varginha, there’s even a UFO-themed water tower shaped like a spacecraft.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-🗂️ Summary</h2>
+<h2>🗂️ Summary</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 | Incident  | Year | Location        | Key Details |
@@ -792,36 +792,35 @@ and UFOlogy conferences.</p>
 | Trindade  | 1957 | Trindade Island | Photographed disc, military witnesses |
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-🛸 Varginha UFO Incident (1996)</h2>
+<h2>🛸 Varginha UFO Incident (1996)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>Spaceship-Shaped Water Tower: A prominent landmark in Varginha, Minas Gerais, commemorating the 
+<p><b>Spaceship-Shaped Water Tower:</b> A prominent landmark in Varginha, Minas Gerais, commemorating the 
 1996 incident where residents reported sightings of strange creatures and unidentified flying 
 objects.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-🔦 Colares UFO Attacks (1977)</h2>
+<h2>🔦 Colares UFO Attacks (1977)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>Operation Saucer (Operação Prato): An investigation by the Brazilian Air Force into the Colares 
+<p><b>Operation Saucer (Operação Prato):</b> An investigation by the Brazilian Air Force into the Colares 
 incidents, where residents reported being attacked by unidentified flying objects emitting 
 harmful beams of light.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Wikipedia</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>Documentary: "The Colares UFO ATTACKS | FULL DOCUMENTARY" provides an in-depth look into 
+<p><b>Documentary:</b> "The Colares UFO ATTACKS | FULL DOCUMENTARY" provides an in-depth look into 
 these events.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>📸 Trindade Island UFO Photographs (1958)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>Photographs by Almiro Baraúna: Captured during a Brazilian Navy expedition, these images depict 
+<p><b>Photographs by Almiro Baraúna:</b> Captured during a Brazilian Navy expedition, these images depict 
 a disc-shaped object over Trindade Island and are considered some of the most credible UFO 
 photographs.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>🗺️ UFO Sightings Map</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>Enigma Labs Brazil Map: An interactive map detailing UFO sightings across Brazil, highlighting 
+<p><b>Enigma Labs Brazil Map:</b> An interactive map detailing UFO sightings across Brazil, highlighting 
 hotspots and recent reports.</p>
 
-<p>NUFORC Global Map: A worldwide map of UFO sightings, including reports from Brazil.</p>
-
+<p><b>NUFORC Global Map:</b> A worldwide map of UFO sightings, including reports from Brazil.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h1>Canada and ET's</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -835,43 +834,42 @@ the mid-20th century.</p>
 Key UFO and ET Incidents in Canada</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>The Falcon Lake Incident (1967)</h2>
-<p>Location: Falcon Lake, Manitoba.</p>
+<h3>Location: Falcon Lake, Manitoba.</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Witness: Stefan Michalak, an amateur geologist.</p>
 
-<p>What happened: Michalak encountered a metallic, saucer-shaped craft that landed near him while 
+<p><b>What happened:</b> Michalak encountered a metallic, saucer-shaped craft that landed near him while 
 prospecting. When he approached, it emitted a hot blast of air, burning his clothes and leaving 
 a grid-shaped burn pattern on his chest.</p>
 
-<p>Physical Evidence: He suffered from radiation-like symptoms, burns, and nausea. The site was 
+<p><b>Physical Evidence:</b> He suffered from radiation-like symptoms, burns, and nausea. The site was 
 later found to contain radioactive soil.</p>
 
-<p>Investigation: The Royal Canadian Mounted Police (RCMP), Canadian Forces, and even the U.S. 
+<p><b>Investigation:</b> The Royal Canadian Mounted Police (RCMP), Canadian Forces, and even the U.S. 
 Air Force investigated. It remains Canada’s most documented UFO case.</p>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Shag Harbour UFO Crash (1967)</h2>
-<p>Location: Shag Harbour, Nova Scotia.</p>
+<h3>Location: Shag Harbour, Nova Scotia.</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>What happened: A glowing object crashed into the ocean and was witnessed by dozens of people, 
+<p><b>What happened:</b> A glowing object crashed into the ocean and was witnessed by dozens of people, 
 including RCMP officers and fishermen.</p>
 
-<p>Response: A rescue operation was launched, assuming a plane had gone down. Divers searched the 
+<p><b>Response:</b> A rescue operation was launched, assuming a plane had gone down. Divers searched the 
 water but found no debris—yet sonar indicated something was submerged and later moved away 
 underwater.</p>
 
-<p>Official Records: The Canadian government labeled it a “UFO”, making it one of the only national 
+<p><b>Official Records:</b> The Canadian government labeled it a “UFO”, making it one of the only national 
 governments to use that designation in official documents.</p>
 
-<p>Legacy: Still unexplained, it is often called “Canada’s Roswell.”</p>
+<p><b>Legacy:</b> Still unexplained, it is often called “Canada’s Roswell.”</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>North Bay Radar Sighting (1951)</h2>
-<p>Location: North Bay, Ontario.</p>
+<h3>Location: North Bay, Ontario.</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>What happened: Multiple radar installations picked up an object moving at incredible speeds, 
+<p><b>What happened:</b> Multiple radar installations picked up an object moving at incredible speeds, 
 changing direction rapidly—well beyond the capability of known aircraft at the time.</p>
 
-<p>Military Response: Jets were scrambled, but they were unable to catch or identify the object.</p>
+<p><b>Military Response:</b> Jets were scrambled, but they were unable to catch or identify the object.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>🛩️ Pilot & Military Testimonies</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -882,7 +880,7 @@ and crafts that moved erratically.</p>
 by an object that hovered silently, then accelerated out of sight.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>🔐 Government Involvement & Declassified Files</h2>
-<p>Project Second Storey (1950s)</p>
+<h3>Project Second Storey (1950s)</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>An official Canadian government UFO investigation group.</p>
 
@@ -891,7 +889,9 @@ Department of Transport, and military intelligence.</p>
 
 <p>Was disbanded quietly, and most documents were archived.</p>
 
-<p>Declassified Canadian Government UFO Files</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>Declassified Canadian Government UFO Files</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>The Library and Archives Canada has over 9,000 pages of UFO reports, available to the public.</p>
 
 <p>These include RCMP reports, air traffic control transcripts, and military assessments.</p>
@@ -899,7 +899,8 @@ Department of Transport, and military intelligence.</p>
 <p>Many are available online through the Canadian Government UFO Portal.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>🔭 Sightings Hotspots in Canada</h2>
-<p>1. Manitoba ("UFO Capital of Canada")</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2>Manitoba ("UFO Capital of Canada")</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p>Especially Falcon Lake and Carman. Sightings peaked in the 1970s.</p>
 
