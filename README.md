@@ -468,7 +468,7 @@ took the reports seriously and conducted a formal investigation, ultimately dete
 phenomenon was likely not the result of conventional aircraft or natural phenomena.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>The 2000 "The Chupica UFO Incident"</h2>
-<p>Location: Northern Chile.</p>
+<p><b>Location:</b> Northern Chile.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p><b>Details:</b> In this highly publicized event, multiple civilian witnesses and military personnel 
 reported seeing a bright, disc-shaped object hovering over a mining area. The object reportedly 
@@ -487,7 +487,7 @@ into the sightings, which included analysis of video footage and radar data. The
 of the most significant unexplained incidents in Chilean UFO history.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>The 2014 "The Calama UFO" Incident</h2>
-<p>Location: Calama, Chile.</p>
+<p><b>Location:</b> Calama, Chile.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p><b>Details:</b> In 2014, several witnesses, including military personnel, reported seeing a group of 
 lights in the sky. The Chilean Air Force recorded radar readings that tracked the objects over a 
@@ -578,7 +578,7 @@ Although no official investigation by the Guatemalan government was reported, th
 sparked further interest in the region’s UFO activity.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>The 2002 "UFO over Guatemala City" Incident</h2>
-<p>Location: Guatemala City, the capital of Guatemala.</p>
+<p><b>Location:</b> Guatemala City, the capital of Guatemala.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p><b>Details:</b> In 2002, a bright light was reported over Guatemala City by multiple civilians and also 
 captured on video by local residents. Witnesses described seeing a bright, disk-shaped object 
@@ -692,7 +692,7 @@ reportedly handled the creature later died under mysterious circumstances.</p>
 compared to Roswell in terms of scope and mystery.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>The Colares Incident (1977) – The “Chupa-Chupa” Attacks</h2>
-<p>Location: Colares Island, Pará state.</p>
+<p><b>Location:</b> Colares Island, Pará state.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p><b>What happened:</b> Between 1977 and 1978, residents of Colares reported being attacked by strange 
 flying objects that emitted beams of light. These lights reportedly caused burns, puncture 
@@ -833,7 +833,7 @@ the mid-20th century.</p>
 <p>Key UFO and ET Incidents in Canada</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>The Falcon Lake Incident (1967)</h2>
-<h3><b>Location:</b> Falcon Lake, Manitoba.</h3>
+<p><b>Location:</b> Falcon Lake, Manitoba.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p><b>Witness:</b> Stefan Michalak, an amateur geologist.</p>
 
@@ -848,7 +848,7 @@ later found to contain radioactive soil.</p>
 Air Force investigated. It remains Canada’s most documented UFO case.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Shag Harbour UFO Crash (1967)</h2>
-<h3><b>Location:</b> Shag Harbour, Nova Scotia.</h3>
+<p><b>Location:</b> Shag Harbour, Nova Scotia.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p><b>What happened:</b> A glowing object crashed into the ocean and was witnessed by dozens of people, 
 including RCMP officers and fishermen.</p>
@@ -863,7 +863,7 @@ governments to use that designation in official documents.</p>
 <p><b>Legacy:</b> Still unexplained, it is often called “Canada’s Roswell.”</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>North Bay Radar Sighting (1951)</h2>
-<h3>Location: North Bay, Ontario.</h3>
+<p><b>Location:</b> North Bay, Ontario.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p><b>What happened:</b> Multiple radar installations picked up an object moving at incredible speeds, 
 changing direction rapidly—well beyond the capability of known aircraft at the time.</p>
@@ -925,7 +925,7 @@ Department of Transport, and military intelligence.</p>
 
 <p>Reports come from pilots, police, and ordinary citizens.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-📜 Summary of Major Cases
+<h2>📜 Summary of Major Cases</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 | Incident             | Year      | Location    | Notable Details                            |
